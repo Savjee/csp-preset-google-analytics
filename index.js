@@ -1,6 +1,6 @@
 "use strict";
 
-modules.exports = {
+module.exports = {
     "img-src": [
         "www.google-analytics.com",
     ],
