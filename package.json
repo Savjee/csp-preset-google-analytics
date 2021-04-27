@@ -1,0 +1,25 @@
+{
+  "name": "csp-preset-google-analytics",
+  "version": "1.0.0",
+  "description": "Google Analytics preset for csp-header",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Savjee/csp-preset-google-analytics.git"
+  },
+  "keywords": [
+    "csp",
+    "security",
+    "google",
+    "analytics"
+  ],
+  "author": "Xavier Decuyper",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Savjee/csp-preset-google-analytics/issues"
+  },
+  "homepage": "https://github.com/Savjee/csp-preset-google-analytics#readme"
+}
