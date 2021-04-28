@@ -1,12 +1,15 @@
 # csp-preset-google-analytics
 Google Analytics preset for [csp-header](https://github.com/frux/csp/tree/master/packages/csp-header#readme)
 
-Installation:
+![npm](https://img.shields.io/npm/v/csp-preset-google-analytics)
+![npm](https://img.shields.io/npm/dw/csp-preset-google-analytics)
+
+## Installation
 ```
 npm install --save csp-preset-google-analytics
 ```
 
-Usage:
+## Usage
 ```js
 const { getCSP } = require('csp-header');
 
@@ -20,3 +23,6 @@ const my_csp_policy = getCSP({
     ]
 });
 ```
+
+## Contribute
+Feel free to open issues/pull-requests if a directive is missing.
